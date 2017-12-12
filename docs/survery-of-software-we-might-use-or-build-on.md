@@ -86,7 +86,8 @@ significant issue.
 
 
 ## EROP language / CCC / CB2B (Abdelsadiq, extended Promela, Spin MC, Drools rule engine)
-*License*: **????** _No evidence of open source_
+
+*License*: Carlos has some code on Github. See pinned post in Slack #edu-collaborations. 
 
 *Papers*: [google drive](https://drive.google.com/open?id=0BzKTGZrxy40NcXVZWDR0VmMxajg)
 
@@ -102,3 +103,10 @@ _CCC_ is Abdelsadiq's abbreviation for Contract Compliance Checker
 *License*:
 
 Predecessor to EROP. At least one of the inventors is a coauthor of Abdelsadiq's.
+
+# Generic model checking / simulating etc systems
+
+## PAT: Process Analysis Toolkit
+Developed at National University of Singapore
+
+"An Enhanced Simulator, Model Checker and Refinement Checker for Concurrent and Real-time Systems"
